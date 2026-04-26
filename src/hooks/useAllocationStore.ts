@@ -1,8 +1,5 @@
 import { useReducer, useEffect, useMemo, useState } from "react";
 import type {
-  SubOrder,
-  Customer,
-  Warehouse,
   AllocationStore,
   FilterType,
 } from "../types";

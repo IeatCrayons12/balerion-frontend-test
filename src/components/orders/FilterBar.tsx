@@ -3,9 +3,7 @@ import {
   TextField,
   ToggleButton,
   ToggleButtonGroup,
-  InputAdornment,
 } from "@mui/material";
-import SearchIcon from "@mui/icons-material/Search";
 import type { FilterType } from "../../types";
 
 interface Props {
